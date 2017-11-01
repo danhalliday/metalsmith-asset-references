@@ -1,1 +1,0 @@
-## Metalsmith Asset References

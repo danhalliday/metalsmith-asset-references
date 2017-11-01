@@ -5,8 +5,7 @@
   "main": "index.js",
   "directories": {
     "lib": "lib",
-    "test": "test",
-    "example": "example"
+    "test": "test"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha"
