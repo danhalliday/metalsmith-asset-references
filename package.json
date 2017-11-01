@@ -27,5 +27,9 @@
     "metalsmith-contenthash": "^0.2.1",
     "metalsmith-fingerprint": "^1.0.3",
     "mocha": "^2.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danhalliday/metalsmith-asset-references.git"
   }
 }

@@ -27,7 +27,7 @@ Add the plugin after your asset hashing plugin of choice. Then references images
       // ...
 
 
-index.html (before)
+`index.html` (before)
 
     <!doctype html>
     <html>
@@ -40,7 +40,7 @@ index.html (before)
       </body>
     </html>
 
-index.html (after)
+`index.html` (after)
 
     <!doctype html>
     <html>
